@@ -3,7 +3,7 @@ I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, 
 
 ## Skills and Experience
 ⚛️ React
-*💻 HTML, CSS, JS
+💻 HTML, CSS, JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpuddle)](https://github.com/anuraghazra/github-readme-stats)
 
