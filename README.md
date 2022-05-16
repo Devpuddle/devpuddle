@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Devpuddles@gmail.com**
 
-- 📄 Know about my experiences [https://isaiahportfolio.netlify.app/resume_folder/Professional%20Resume.pdf](https://isaiahportfolio.netlify.app/resume_folder/Professional%20Resume.pdf)
+- 📄 My experiences <a href="[https://isaiahportfolio.netlify.app/resume_folder/Professional%20Resume.pdf]" rel="nofollow">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
