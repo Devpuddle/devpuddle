@@ -1,5 +1,4 @@
-![Cover Banner](https://user-images.githubusercontent.com/101721631/168667342-33d98b25-d4b9-4108-992a-11d91d81628f.png)
-<img src="https://user-images.githubusercontent.com/101721631/168667342-33d98b25-d4b9-4108-992a-11d91d81628f.png" width = 600 height = 400>
+<img src="https://user-images.githubusercontent.com/101721631/168667342-33d98b25-d4b9-4108-992a-11d91d81628f.png" width = 1000 height = 325>
 
 <h1 align="center">Hi 👋, I'm Isaiah Henson</h1>
 <h3 align="center">A passionate frontend developer from the United States, I am motivated by the power of technology as a tool for positive change.</h3>
