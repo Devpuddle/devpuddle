@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaiah Henson</h1>
 <h3 align="center">A passionate frontend developer from the United States, I am motivated by the power of technology as a tool for positive change.</h3>
 
-<p> "See "
+<p> See 
 <a href="https://isaiahportfolio.netlify.app/" rel="nofollow">my website</a>
-" for more information!"
+ for more information!
 </p>
 
 <p align="left"> <a href="https://twitter.com/devpuddle" target="blank"><img src="https://img.shields.io/twitter/follow/devpuddle?logo=twitter&style=for-the-badge" alt="devpuddle" /></a> </p>
