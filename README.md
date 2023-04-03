@@ -1,3 +1,5 @@
+<img href="![facebook_cover_photo_1](https://user-images.githubusercontent.com/101721631/229399771-d25301ff-efdb-45e0-9c3d-1c4ec9f22227.png)
+"></img>
 <h1 align="center">Hi 👋, I'm Isaiah Henson</h1>
 <h3 align="center">A passionate frontend developer from the United States, I am motivated by the power of technology as a tool for positive change.</h3>
 
