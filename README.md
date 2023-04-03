@@ -12,7 +12,7 @@
   <a href="https://twitter.com/JetSkylerTech" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=c90c64&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://wellfound.com/u/isaiah-henson-1" target="_blank">
+  <a href="https://wellfound.com/u/jett-skyler-1" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL%20LIST&color=1f1591&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
