@@ -6,7 +6,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=c90c64&style=plastic&logo=netlify&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/isaiah-henson/" target="_blank">
+  <a href="https://www.linkedin.com/in/jett-skyler/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED%20IN&color=1f1591&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/JetSkylerTech" target="_blank">
